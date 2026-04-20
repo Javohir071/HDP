@@ -1,5 +1,5 @@
-const BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE';
-const CHAT_ID   = 'YOUR_CHAT_ID_HERE';
+const BOT_TOKEN = '_BOT_TOKEN_HERE';
+const CHAT_ID   = '_CHAT_ID_HERE';
 
 // Cursor
 const cg=document.getElementById('cursorGlow');
